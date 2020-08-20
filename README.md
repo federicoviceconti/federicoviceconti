@@ -7,7 +7,7 @@ I'm a Flutter/Dart enthusiast.
 ## 📫 How to reach me: 
 
 You can get in touh with me by: 
-- [mail](mailto:viceconti.federico@gmail.com)
-- [linkedin](https://www.linkedin.com/in/federicoviceconti/) profile.
+- [Mail](mailto:viceconti.federico@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/federicoviceconti/)
 
 Website (under construction): http://federicoviceconti.github.io/
