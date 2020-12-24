@@ -10,3 +10,5 @@ I'm a Flutter/Dart enthusiast.
 - [Linkedin](https://www.linkedin.com/in/federicoviceconti/)
 
 Website (under construction): https://federicoviceconti.com/
+
+![](https://komarev.com/ghpvc/?username=federicoviceconti&color=blue&label=PROFILE+VIEWS)
