@@ -13,4 +13,6 @@ I'm a Flutter/Dart enthusiast.
 
 Website: https://federicoviceconti.com/ (will you find the secret easter egg? :P)
 
+![Federico's GitHub stats](https://github-readme-stats.vercel.app/api?username=federicoviceconti&count_private=true)
+
 ![](https://komarev.com/ghpvc/?username=federicoviceconti&color=blue&label=PROFILE+VIEWS)
