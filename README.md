@@ -11,7 +11,11 @@ I'm a Flutter/Dart enthusiast.
 - [Mail](mailto:viceconti.federico@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/federicoviceconti/)
 
-Website: https://federicoviceconti.com/ (will you find the secret easter egg? :P)
+### 💻 Website 
+
+https://federicoviceconti.com/
+
+Will you find the secret easter egg? :P
 
 ![Federico's GitHub stats](https://github-readme-stats.vercel.app/api?username=federicoviceconti&count_private=true)
 
