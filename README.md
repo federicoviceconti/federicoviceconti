@@ -1,6 +1,6 @@
 ### 🧑‍💻 Hi there, I'm Federico!
 
-I'm living in a little city in the south of Italy and working in Rome 🇮🇹.
+I'm coming from a little city in the south of Italy and now I'm working in Rome 🇮🇹.
 
 I love Android mobile development.
 
@@ -13,9 +13,7 @@ I'm a Flutter/Dart enthusiast.
 
 ### 💻 Website 
 
-https://federicoviceconti.com/
-
-Will you find the secret easter egg? :P
+https://federicoviceconti.com/ (Will you find the secret easter egg? :P)
 
 ![Federico's GitHub stats](https://github-readme-stats.vercel.app/api?username=federicoviceconti&count_private=true)
 
