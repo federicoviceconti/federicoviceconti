@@ -13,7 +13,7 @@ I'm a Flutter/Dart enthusiast.
 
 ### 💻 Website 
 
-https://federicoviceconti.com/ (Will you find the secret easter egg? :P)
+https://federicoviceconti.com/
 
 ### 📋 Some personal projects
 
