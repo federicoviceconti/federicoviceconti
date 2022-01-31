@@ -15,6 +15,13 @@ I'm a Flutter/Dart enthusiast.
 
 https://federicoviceconti.com/
 
+### 📦 Pub.dev packages:
+
+- [unofficial_twitch_auth](https://pub.dev/packages/unofficial_twitch_auth): Wrapper for the Twitch API for the OAuth authentication processes.
+- [unofficial_twitch_open_api](https://pub.dev/packages/unofficial_twitch_open_api): Wrapper for the newest Twitch API, which returns informations about channels, media, search and game
+
+You can find me on pub.dev: https://pub.dev/publishers/federicoviceconti.com/packages
+
 ### 📋 Some personal projects
 
 - [covid_bot](https://github.com/federicoviceconti/covid_bot): bot made with Dart, which use the telegram APIs through teledart package
