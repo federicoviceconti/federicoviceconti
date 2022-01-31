@@ -25,7 +25,7 @@ You can find me on pub.dev: https://pub.dev/publishers/federicoviceconti.com/pac
 ### 📋 Some personal projects
 
 - [covid_bot](https://github.com/federicoviceconti/covid_bot): bot made with Dart, which use the telegram APIs through teledart package
-- [unofficial_twitch_client](https://github.com/federicoviceconti/unofficial_twitch_client_flutter): wrapper of twitch APIs, with an example app.
+- [unofficial_twitch_client](https://github.com/federicoviceconti/unofficial_twitch_client_flutter): example app which use the twitch APIs.
 - [federicoviceconti_website_code](https://github.com/federicoviceconti/federicoviceconti_website_code): made with Flutter and ❤️
 - [flutter_slider](https://github.com/federicoviceconti/flutter_slider): build custom slides with a simple JSON. Made with Flutter.
 
