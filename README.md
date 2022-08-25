@@ -17,9 +17,9 @@ https://federicoviceconti.com/
 
 ### 📦 Pub.dev packages:
 
+- [card_stack_widget](https://pub.dev/packages/card_stack_widget): A customizable stack of cards for Flutter applications
 - [unofficial_twitch_auth](https://pub.dev/packages/unofficial_twitch_auth): Wrapper for the Twitch API for the OAuth authentication processes.
 - [unofficial_twitch_open_api](https://pub.dev/packages/unofficial_twitch_open_api): Wrapper for the newest Twitch API, which returns informations about channels, media, search and game
-- [card_stack_widget](https://pub.dev/packages/card_stack_widget): A customizable stack of cards for Flutter applications
 
 You can find me on pub.dev: https://pub.dev/publishers/federicoviceconti.com/packages
 
