@@ -11,9 +11,9 @@ I'm a Flutter/Dart enthusiast.
 - [Mail](mailto:viceconti.federico@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/federicoviceconti/)
 
-### 💻 Website (Made in Flutter and ❤️)
+### 💻 Website
 
-[federicoviceconti.com](https://www.federicoviceconti.com)
+[federicoviceconti.com](https://www.federicoviceconti.com) (Made in Flutter with ❤️)
 
 ### 📦 Pub.dev packages:
 
