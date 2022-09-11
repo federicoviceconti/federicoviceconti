@@ -13,7 +13,7 @@ I'm a Flutter/Dart enthusiast.
 
 ### 💻 Website 
 
-https://federicoviceconti.com/
+federicoviceconti.com
 
 ### 📦 Pub.dev packages:
 
