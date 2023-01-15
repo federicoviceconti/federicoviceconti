@@ -30,6 +30,4 @@ You can find me on pub.dev: https://pub.dev/publishers/federicoviceconti.com/pac
 - [federicoviceconti_website_code](https://github.com/federicoviceconti/federicoviceconti_website_code): made with Flutter and ❤️
 - [flutter_slider](https://github.com/federicoviceconti/flutter_slider): build custom slides with a simple JSON. Made with Flutter.
 
-![Federico's GitHub stats](https://github-readme-stats.vercel.app/api?username=federicoviceconti&count_private=true)
-
 ![](https://komarev.com/ghpvc/?username=federicoviceconti&color=blue&label=PROFILE+VIEWS)
